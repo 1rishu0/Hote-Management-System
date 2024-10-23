@@ -9,18 +9,30 @@ A Hotel Management System (HMS) is designed to manage the day-to-day operations 
 - Login functionality for staff and administrators.
 - Role-based access control to different features based on user roles (e.g., receptionist, manager).
 
+  ![Login](https://github.com/user-attachments/assets/0822358f-ef94-4720-86b9-a7807b4347ef)
+
 **Room Management:**
 - Add, update, and delete room details (type, number, price, availability).
 - View all rooms in a table format with filtering options.
+
+  ![Management](https://github.com/user-attachments/assets/4d9e80e3-636f-4e24-90f6-e04500699f0c)
 
 **Reservation Management:**
 - Create, update, and cancel reservations.
 - Check room availability and book rooms based on user selection.
 - Search functionality based on criteria like date range and room type.
 
+  ![Customer](https://github.com/user-attachments/assets/2033ed68-e5d2-492b-9952-2913d76ef192)
+
 **Check-In and Check-Out:**
 - Manage guest check-in and check-out processes.
+
+![Check-Out](https://github.com/user-attachments/assets/64748541-2b8b-4cc6-a0a4-dd45c63f43d1)
+  
 - Capture guest details and update room status.
+
+![Room-Status](https://github.com/user-attachments/assets/e7d33b46-3a97-466d-a999-b15038eb906f)
+  
 
 ## **Technology Stack**
 
